@@ -1,0 +1,94 @@
+BÁO CÁO TRÍCH XUẤT DỮ LIỆU
+Nguồn: 700tracnghiemlsdcsvn_Copy.md
+Tổng số câu: 700
+Có đáp án: 660 (gợi ý gốc: 648, phục hồi từ câu trùng: 12)
+Chưa có đáp án trong nguồn: 40
+
+Chương 1: 256 câu, 256 có đáp án, 0 chưa có đáp án | ĐẢNG CỘNG SẢN VIỆT NAM RA ĐỜI VÀ LÃNH ĐẠO ĐẤU TRANH GIÀNH CHÍNH QUYỀN (1930 - 1945)
+Chương 2: 304 câu, 304 có đáp án, 0 chưa có đáp án | ĐẢNG LÃNH ĐẠO HAI CUỘC KHÁNG CHIẾN CHỐNG NGOẠI XÂM, HOÀN THÀNH GIẢI PHÓNG DÂN TỘC, THỐNG NHẤT ĐẤT NƯỚC 1945 - 1975
+Chương 3: 140 câu, 100 có đáp án, 40 chưa có đáp án | ĐẢNG LÃNH ĐẠO CẢ NƯỚC QUÁ ĐỘ LÊN CNXH VÀ TIẾN HÀNH CÔNG CUỘC ĐỔI MỚI (TỪ 1975 ĐẾN NAY)
+
+Answer keys: [256, 304, 88]
+Câu trùng đã phục hồi đáp án: 12
+  Chương 3 câu 116 ← Chương 3 câu 9 (A) | Thành phần kinh tế giữ vai trò chủ đạo trong nền kinh tế thị trường định hướng XHCN ở Việt Nam là …?
+  Chương 3 câu 130 ← Chương 3 câu 24 (A) | Quan điểm nào trong các quan điểm sau đây nói về chức năng, vị trí, vai trò đặc biệt quan trọng của 
+  Chương 3 câu 131 ← Chương 3 câu 25 (A) | Chính sách đối ngoại rộng đa phương hóa, đa dạng hóa các quan hệ kinh tế của Đảng ta là trực tiếp xu
+  Chương 3 câu 132 ← Chương 3 câu 26 (C) | Quan điểm nào trong các quan điểm sau đây nói về xây dựng con người Việt Nam?
+  Chương 3 câu 133 ← Chương 3 câu 27 (B) | Chủ trương chủ động và tích cực hội nhập kinh tế quốc tế là trực tiếp xuất phát từ cơ sở nào trong c
+  Chương 3 câu 134 ← Chương 3 câu 23 (C) | Cơ chế quản lý tập trung quan liêu, bao cấp thực hiện trong giai đoạn trước đổi mới đã gây ra những 
+  Chương 3 câu 135 ← Chương 3 câu 29 (A) | Đại hội VI của Đảng đã đưa ra nhận thức mới về mối quan hệ giữa chính sách xã hội với phát triển kin
+  Chương 3 câu 136 ← Chương 3 câu 30 (B) | Đại hội VI của Đảng đã đưa ra nhận thức mới về mối quan hệ giữa chính sách xã hội với phát triển kin
+  Chương 3 câu 137 ← Chương 3 câu 31 (A) | Trong các quan điểm xây dựng hệ thống chính trị trong thời kỳ đổi mới, quan điểm nào dưới đây bị viế
+  Chương 3 câu 138 ← Chương 3 câu 32 (A) | Cơ chế quản lý tập trung quan liêu, bao cấp thực hiện trong giai đoạn trước đổi mới đã gây ra những 
+  Chương 3 câu 139 ← Chương 3 câu 33 (B) | Cơ chế quản lý tập trung quan liêu, bao cấp thực hiện trong giai đoạn trước đổi mới đã gây ra những 
+  Chương 3 câu 140 ← Chương 3 câu 34 (B) | Trong các cơ sở hình thành hệ thống chuyên chính vô sản ở nước ta, “Việc Đại hội IV của Đảng nhận đị
+
+Các Unit (50 câu/Unit):
+  Unit 1: Chương 1 | 1930 – 1945 | Câu 1–50 | 0 câu chưa có đáp án
+  Unit 2: Chương 1 | 1930 – 1945 | Câu 51–100 | 0 câu chưa có đáp án
+  Unit 3: Chương 1 | 1930 – 1945 | Câu 101–150 | 0 câu chưa có đáp án
+  Unit 4: Chương 1 | 1930 – 1945 | Câu 151–200 | 0 câu chưa có đáp án
+  Unit 5: Chương 1 | 1930 – 1945 | Câu 201–250 | 0 câu chưa có đáp án
+  Unit 6: Chương 1 → 2 | 1930 – 1945 → 1945 – 1975 | Câu 251–300 | 0 câu chưa có đáp án
+  Unit 7: Chương 2 | 1945 – 1975 | Câu 301–350 | 0 câu chưa có đáp án
+  Unit 8: Chương 2 | 1945 – 1975 | Câu 351–400 | 0 câu chưa có đáp án
+  Unit 9: Chương 2 | 1945 – 1975 | Câu 401–450 | 0 câu chưa có đáp án
+  Unit 10: Chương 2 | 1945 – 1975 | Câu 451–500 | 0 câu chưa có đáp án
+  Unit 11: Chương 2 | 1945 – 1975 | Câu 501–550 | 0 câu chưa có đáp án
+  Unit 12: Chương 2 → 3 | 1945 – 1975 → 1975 – nay | Câu 551–600 | 0 câu chưa có đáp án
+  Unit 13: Chương 3 | 1975 – nay | Câu 601–650 | 8 câu chưa có đáp án
+  Unit 14: Chương 3 | 1975 – nay | Câu 651–700 | 32 câu chưa có đáp án
+
+Warnings: 52
+  Chương 3 câu 83: thiếu đáp án trong file gốc
+  Chương 3 câu 84: thiếu đáp án trong file gốc
+  Chương 3 câu 85: thiếu đáp án trong file gốc
+  Chương 3 câu 86: thiếu đáp án trong file gốc
+  Chương 3 câu 87: thiếu đáp án trong file gốc
+  Chương 3 câu 88: thiếu đáp án trong file gốc
+  Chương 3 câu 89: thiếu đáp án trong file gốc
+  Chương 3 câu 90: thiếu đáp án trong file gốc
+  Chương 3 câu 93: thiếu đáp án trong file gốc
+  Chương 3 câu 94: thiếu đáp án trong file gốc
+  Chương 3 câu 95: thiếu đáp án trong file gốc
+  Chương 3 câu 96: thiếu đáp án trong file gốc
+  Chương 3 câu 97: thiếu đáp án trong file gốc
+  Chương 3 câu 98: thiếu đáp án trong file gốc
+  Chương 3 câu 99: thiếu đáp án trong file gốc
+  Chương 3 câu 100: thiếu đáp án trong file gốc
+  Chương 3 câu 103: thiếu đáp án trong file gốc
+  Chương 3 câu 104: thiếu đáp án trong file gốc
+  Chương 3 câu 105: thiếu đáp án trong file gốc
+  Chương 3 câu 106: thiếu đáp án trong file gốc
+  Chương 3 câu 107: thiếu đáp án trong file gốc
+  Chương 3 câu 108: thiếu đáp án trong file gốc
+  Chương 3 câu 109: thiếu đáp án trong file gốc
+  Chương 3 câu 110: thiếu đáp án trong file gốc
+  Chương 3 câu 113: thiếu đáp án trong file gốc
+  Chương 3 câu 114: thiếu đáp án trong file gốc
+  Chương 3 câu 115: thiếu đáp án trong file gốc
+  Chương 3 câu 116: thiếu đáp án trong file gốc
+  Chương 3 câu 117: thiếu đáp án trong file gốc
+  Chương 3 câu 118: thiếu đáp án trong file gốc
+  Chương 3 câu 119: thiếu đáp án trong file gốc
+  Chương 3 câu 120: thiếu đáp án trong file gốc
+  Chương 3 câu 121: thiếu đáp án trong file gốc
+  Chương 3 câu 122: thiếu đáp án trong file gốc
+  Chương 3 câu 123: thiếu đáp án trong file gốc
+  Chương 3 câu 124: thiếu đáp án trong file gốc
+  Chương 3 câu 125: thiếu đáp án trong file gốc
+  Chương 3 câu 126: thiếu đáp án trong file gốc
+  Chương 3 câu 127: thiếu đáp án trong file gốc
+  Chương 3 câu 128: thiếu đáp án trong file gốc
+  Chương 3 câu 129: thiếu đáp án trong file gốc
+  Chương 3 câu 130: thiếu đáp án trong file gốc
+  Chương 3 câu 131: thiếu đáp án trong file gốc
+  Chương 3 câu 132: thiếu đáp án trong file gốc
+  Chương 3 câu 133: thiếu đáp án trong file gốc
+  Chương 3 câu 134: thiếu đáp án trong file gốc
+  Chương 3 câu 135: thiếu đáp án trong file gốc
+  Chương 3 câu 136: thiếu đáp án trong file gốc
+  Chương 3 câu 137: thiếu đáp án trong file gốc
+  Chương 3 câu 138: thiếu đáp án trong file gốc
+  Chương 3 câu 139: thiếu đáp án trong file gốc
+  Chương 3 câu 140: thiếu đáp án trong file gốc

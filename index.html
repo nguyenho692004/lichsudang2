@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lịch sử Đảng · 700 câu trắc nghiệm</title>
+  <meta name="description" content="Ôn tập 700 câu hỏi trắc nghiệm Lịch sử Đảng Cộng sản Việt Nam theo 14 Unit, có phản hồi tức thì, chế độ ngẫu nhiên và tự lưu tiến độ.">
+  <meta name="theme-color" content="#f6f2ea">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23c8102e'/%3E%3Cpath d='M32 12l5.6 11.4 12.6 1.8-9.1 8.9 2.1 12.5L32 40.7l-11.2 5.9 2.1-12.5-9.1-8.9 12.6-1.8z' fill='%23f2c14e'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Lora:ital,wght@0,500;0,600;1,500;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="page-glow" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <button class="brand" type="button" data-action="home" aria-label="Về trang chủ">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none">
+            <path d="M12 3.6l2.1 4.3 4.7.7-3.4 3.3.8 4.7L12 14.4l-4.2 2.2.8-4.7-3.4-3.3 4.7-.7L12 3.6z" fill="currentColor"/>
+          </svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-title">Lịch sử Đảng</span>
+          <span class="brand-sub">700 câu trắc nghiệm</span>
+        </span>
+      </button>
+
+      <div class="header-right">
+        <button class="header-progress" type="button" data-action="home" aria-label="Tiến độ tổng">
+          <span class="header-progress-label">Tiến độ</span>
+          <span class="header-progress-value" id="header-progress-value">0/700</span>
+          <span class="header-progress-bar" aria-hidden="true"><span id="header-progress-fill"></span></span>
+        </button>
+        <button class="icon-btn header-home" type="button" data-action="home" aria-label="Trang chủ">
+          <span class="icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 10.5L12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/><path d="M9.5 21v-6h5v6"/>
+            </svg>
+          </span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="app" class="app" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p class="footer-note">
+        Dữ liệu từ file <strong>700 câu hỏi trắc nghiệm Lịch sử Đảng</strong> · 660 câu có đáp án · 40 câu chưa có đáp án trong nguồn.
+      </p>
+      <button class="footer-reset" type="button" data-action="reset-progress">Xóa tiến độ</button>
+    </div>
+  </footer>
+
+  <div id="toast-root" class="toast-root" aria-live="polite" aria-atomic="true"></div>
+  <div id="modal-root"></div>
+
+  <noscript>
+    <div class="noscript">Website cần JavaScript để hoạt động. Vui lòng bật JavaScript trong trình duyệt.</div>
+  </noscript>
+
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
